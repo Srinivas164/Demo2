@@ -1,0 +1,4 @@
+this is testing purpose to push a file to git hib
+cat file
+git add file
+git commit file
