@@ -28,7 +28,7 @@
 		"parameters": {
 			"Par": {
 				"type": "int",
-				"defaultValue": 0
+				"defaultValue": "Par2"
 			}
 		},
 		"variables": {
