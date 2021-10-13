@@ -17,6 +17,12 @@
 				"typeProperties": {
 					"enableStaging": false
 				}
+			},
+			{
+				"name": "Append variable1",
+				"type": "AppendVariable",
+				"dependsOn": [],
+				"userProperties": []
 			}
 		],
 		"parameters": {
@@ -27,7 +33,8 @@
 		},
 		"variables": {
 			"var": {
-				"type": "Boolean"
+				"type": "Boolean",
+				"defaultValue": "var2"
 			}
 		},
 		"annotations": []
